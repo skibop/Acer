@@ -1,0 +1,10 @@
+{
+  "prefix": "-",
+  "webhook_id": "",
+  "webhook_url": "",
+  "clientID": "",
+  "clientSecret": "",
+  "host": "lava.link",
+  "port": 80,
+  "password": "password"
+} 
